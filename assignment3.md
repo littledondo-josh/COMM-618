@@ -15,3 +15,7 @@ Comparisons with national averages reveal that some states exceed the average by
 Overall, high-coverage states show relatively balanced rates across all four vaccines, whereas low-coverage states fall behind more noticeably for certain vaccines. To improve overall childhood immunization rates, public health decision-makers [placeholder for policy recommendation or expert opinion].
 
 -30-
+
+*Note*: For the vaccination coverage data, I limited the time span to the most recent five years and selected the four most important vaccines. I also chose 10 representative states for analysis, and a column chart was generated to visualize the data. I calculated the average coverage for these states and compared them with the national average, producing a bar chart to highlight the discrepancy.
+
+[*Spreadsheet*](https://docs.google.com/spreadsheets/d/1fn8huYFeC8kLVSNfXFF-h0zKzXT6Jx2ZAUwUydSZBJo/edit?gid=190303033#gid=190303033)
