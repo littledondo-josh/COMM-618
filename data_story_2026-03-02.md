@@ -1,4 +1,4 @@
-# Data Story 2026-02-17
+# Data Story 2026-03-02
 ## [Americans Are Leaving the U.S. in Record Number](https://www.wsj.com/us-news/americans-leaving-the-us-migration-a5795bfa?gaa_at=eafs&gaa_n=AWEtsqexlGO2PymmJmu39S8vWx9a6U_d-fkt2-mZrOMx-EDlQTLIdYkrE8UxPsqMmaU%3D&gaa_ts=69a72c41&gaa_sig=hHUwQZ7Nt11lSCas_QNVZbn1nqWi4VwseQLfDxhpvtGoBU5wosmoreNTXB1tXfxiHv7PxF7fmO-PZNBiOcq7xQ%3D%3D)
 ### The Wallstreet Journal. 02, March
 
