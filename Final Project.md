@@ -1,4 +1,4 @@
-Americans, media and official messaging focus on different priorities during the Iran war
+# Americans, media and official messaging focus on different priorities during the Iran war
 
 On February 28, the day the United States launched strikes on Iran, President Donald Trump said the operation was intended to eliminate “imminent threats from the Iranian regime.” He repeatedly emphasized that Iran “can never have a nuclear weapon.”
 
