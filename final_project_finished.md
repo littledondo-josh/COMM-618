@@ -63,3 +63,9 @@ Although President Trump justified the strikes by warning about the threat posed
 Search behavior shifted mainly toward rising fuel costs. News coverage remained centered on military developments. White House messaging emphasized Iran itself while rarely returning to the nuclear justification that helped explain the decision to strike in the first place.
 
 More than a month after the conflict began, the issue that framed the opening announcement of the war no longer defined the public conversation surrounding it.
+
+[Google Sheets of Google Trends Data](https://docs.google.com/spreadsheets/d/1rVJtV4eLZnw7Yer4AOTtTIpQbxSYndQhDniSHQGUZmQ/edit?usp=sharing)
+
+[Google Sheets of Media Cloud Data](https://docs.google.com/spreadsheets/d/1czW0UOkIVpiw64N4scy429YZyCkkVsrBGAX3oj_eWxw/edit?usp=sharing)
+
+[Google Sheets of Official Messaging](https://docs.google.com/spreadsheets/d/1i3V-y7UwhmGhDjWdae5pxmrtc-XiebUGQpK1IpNvXcU/edit?usp=sharing)
