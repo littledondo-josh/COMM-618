@@ -10,7 +10,10 @@ An analysis of Google Trends search data, Media Cloud coverage patterns, and soc
 
 Together, the data suggest that the public, the media, and official messaging framed the conflict in fundamentally different ways during the first phase of the war.
 
+![chart 1](final_project_chart_1_google_trends.png)
+
 Search interest data show that Americans initially paid close attention to the war immediately after the strikes. That attention declined quickly. Within days, searches related to gas and oil prices rose sharply and remained consistently higher than searches related to the war for most of the conflict period.
+
 Searches related to escalation risks also increased immediately after the strikes, reflecting concern that the conflict might expand beyond its initial scope.
 
 Both public and media attention to nuclear risks declined rapidly after the first days of the conflict, even though preventing Iran from obtaining nuclear weapons had been presented as a central justification for the strikes.
@@ -25,6 +28,8 @@ News coverage followed a different trajectory.
 
 Media Cloud data show that reporting remained consistently focused on the war itself throughout the conflict period, while coverage related to gas and oil prices remained secondary compared with military developments.
 
+![chart 1](final_project_chart_2_media_cloud.png)
+
 In the early phase of a war, journalists often rely heavily on official military sources. That reliance naturally shifts coverage toward national security risks and escalation scenarios, said Wendy Melillo, associate professor of journalism at American University.
 
 “Reporting on military escalation and the threat of nuclear weapons being used is necessary since such decisions affect every living person on the planet,” she said.
@@ -36,6 +41,8 @@ Jane Hall, a professor of journalism at American University, said the early emph
 The sudden shift in U.S. policy created uncertainty about whether the conflict might expand and whether U.S. troops might become involved, which helped explain why coverage initially centered on escalation risks rather than economic consequences.
 
 Official messaging followed yet another pattern.
+
+![chart 1](final_project_chart_3_offical_messagin.png)
 
 Social media posts from President Trump and the White House emphasized Iran itself far more than escalation risks or economic consequences. Mentions of gas prices were rare. References to escalation risks were almost entirely absent.
 
