@@ -1,4 +1,4 @@
-# Data Story 2026-02-24
+# Data Story 3
 ## [Why more lawmakers are quitting Congress, and what it means for the midterms](https://www.washingtonpost.com/politics/interactive/2026/congress-midterms-lawmakers-quit/)
 ### The Washington Post. Feb. 11, 2026
 I think this is a good data story.
