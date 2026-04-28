@@ -1,4 +1,4 @@
-# Data Story 2026-04-07
+# Data Story 6
 ## [Who Knew ‘Slick’ Gavin Newsom Was Such an Economic Maestro?](https://www.bloomberg.com/opinion/articles/2026-04-06/california-s-economic-boom-proves-gavin-newsom-s-critics-wrong)
 ### Bloomberg April. 07, 2026
 
