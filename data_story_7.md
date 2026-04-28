@@ -1,4 +1,4 @@
-# Data Story 2026-03-24
+# Data Story 7
 ## [Which Countries Depend the Most on Persian Gulf Oil and Gas](https://www.nytimes.com/interactive/2026/03/23/business/energy-environment/oil-importers-middle-east-iran-war.html)
 ### The New York Times. 24, March
 
