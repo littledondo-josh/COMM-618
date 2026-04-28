@@ -1,4 +1,4 @@
-# Data Story 2026-02-17
+# Data Story 2
 ## [ICE Hired Thousands While the Rest of the Immigration System Shrank](https://www.nytimes.com/2026/02/11/us/ice-agents-hiring-immigration-system.html)
 ### New York Times Feb. 11, 2026
 I find this data story strong in many respects.
