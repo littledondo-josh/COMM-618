@@ -1,4 +1,4 @@
-# Data Story 2026-02-10
+# Data Story 1
 ## [For Some Americans, the End of Obamacare Subsidies Means Falling Off a Financial Cliff](https://www.nytimes.com/2026/01/30/upshot/obamacare-subsidies-financial-cliff.html)
 ### New York Times Jan. 10, 2026
 I think this is a data story with both clear strengths and weaknesses.
